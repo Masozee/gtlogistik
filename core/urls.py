@@ -28,8 +28,8 @@ admin.sites.AdminSite.index_title = 'PT. Gardatama Logistik'
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('web.url'))
-
+    path('', include('web.url')),
+    path('dashboard/', include('dashboard.url')),
 ]
 
 #handler404 = "web.views.page_not_found_view"
