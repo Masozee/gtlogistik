@@ -7,5 +7,6 @@ urlpatterns = [
     path('our-services/', TemplateView.as_view(template_name='web/index.html'), name='services'),
     path('contact/', TemplateView.as_view(template_name='web/index.html'), name='contact'),
     path('track/', TemplateView.as_view(template_name='web/index.html'), name='track'),
+    path('news/', TemplateView.as_view(template_name='web/index.html'), name='news'),
 
 ]
