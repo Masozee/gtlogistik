@@ -307,7 +307,7 @@ button[type="submit"] i {
   height: 100%;
   top: 0;
   left: 0;
-  background: #fed300;
+  background: #9900cc;
   font-weight: 600;
   -webkit-transition: all .35s ease-in-out;
   -moz-transition: all .30s ease-in-out;
@@ -347,7 +347,7 @@ button[type="submit"] i {
   display: none;
 }
 .yes-no #no:checked ~ .switch {
-  background: #fed300;
+  background: #9900cc;
 }
 .yes-no #no:checked ~ .switch span {
   background: #212223;
@@ -427,7 +427,7 @@ button[type="submit"] i {
   font-weight: 600;
 }
 .accordion .card .card-header a:hover {
-  color: #fed300;
+  color: #9900cc;
   text-decoration: none;
 }
 .accordion .card .card-body {
@@ -540,7 +540,7 @@ button[type="submit"] i {
   z-index: 9;
   right: 0;
   top: 0;
-  background: #fed300;
+  background: #9900cc;
   -webkit-transition: all .35s ease-in-out;
   -moz-transition: all .30s ease-in-out;
   -ms-transition: all .30s ease-in-out;
@@ -575,7 +575,7 @@ button[type="submit"] i {
   z-index: 9;
   left: 0;
   bottom: 0;
-  background: #fed300;
+  background: #9900cc;
   -webkit-transition: all .35s ease-in-out;
   -moz-transition: all .30s ease-in-out;
   -ms-transition: all .30s ease-in-out;
@@ -654,7 +654,7 @@ button[type="submit"] i {
   display: block;
   margin-bottom: 10px;
   font-size: 18px;
-  color: #fed300;
+  color: #9900cc;
 }
 .side-widget .address {
   width: 100%;
@@ -687,7 +687,7 @@ button[type="submit"] i {
   font-weight: 600;
 }
 .side-widget .social-media li a:hover {
-  color: #fed300;
+  color: #9900cc;
 }
 .side-widget .custom-menu {
   width: 100%;
@@ -720,7 +720,7 @@ button[type="submit"] i {
 }
 .side-widget .custom-menu ul li a:hover {
   text-decoration: none;
-  color: #fed300;
+  color: #9900cc;
 }
 .side-widget .site-menu {
   width: 100%;
@@ -752,7 +752,7 @@ button[type="submit"] i {
 }
 .side-widget .site-menu ul li a:hover {
   text-decoration: none;
-  color: #fed300;
+  color: #9900cc;
 }
 .side-widget small {
   font-size: 11px;
@@ -785,7 +785,7 @@ button[type="submit"] i {
 .topbar .phone a {
   display: inline-block;
   color: #212223;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   line-height: 1;
 }
 .topbar .email {
@@ -795,7 +795,7 @@ button[type="submit"] i {
 .topbar .email a {
   display: inline-block;
   color: #212223;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   line-height: 1;
 }
 .topbar .social-media {
@@ -820,7 +820,7 @@ button[type="submit"] i {
 }
 .topbar .social-media ul li a:hover {
   text-decoration: none;
-  color: #fed300;
+  color: #9900cc;
 }
 .topbar .social-media ul li i {
   font-size: 14px;
@@ -893,7 +893,7 @@ button[type="submit"] i {
   transition: all .30s ease-in-out;
 }
 .navbar .inner .custom-menu ul li a:hover {
-  color: #fed300;
+  color: #9900cc;
 }
 .navbar .inner .site-menu {
   display: inline-block;
@@ -922,7 +922,7 @@ button[type="submit"] i {
   transition: all .30s ease-in-out;
 }
 .navbar .inner .site-menu ul li a:hover {
-  color: #fed300;
+  color: #9900cc;
 }
 .navbar .inner .hamburger-menu {
   display: inline-block;
@@ -936,7 +936,7 @@ button[type="submit"] i {
   height: 55px;
   line-height: 55px;
   display: inline-block;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   padding: 0 40px;
   font-weight: 600;
@@ -1003,7 +1003,7 @@ button[type="submit"] i {
   height: 62px;
   line-height: 62px;
   display: inline-block;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   font-size: 14px;
   font-weight: 600;
@@ -1121,7 +1121,7 @@ button[type="submit"] i {
 }
 .section-note strong {
   width: 600;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   line-height: 1;
 }
 
@@ -1159,7 +1159,7 @@ button[type="submit"] i {
   content: "";
   width: 46%;
   height: 100%;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   left: 0;
   top: 0;
@@ -1172,7 +1172,7 @@ button[type="submit"] i {
   content: "";
   width: 46%;
   height: 150px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1217,7 +1217,7 @@ button[type="submit"] i {
   height: 62px;
   line-height: 62px;
   display: inline-block;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   font-size: 14px;
   font-weight: 600;
@@ -1251,7 +1251,7 @@ button[type="submit"] i {
   margin: 0;
   padding: 0;
   position: relative;
-  background: #fed300;
+  background: #9900cc;
   overflow: hidden;
 }
 .video-thumb:hover img {
@@ -1284,7 +1284,7 @@ button[type="submit"] i {
   transition: all .30s ease-in-out;
 }
 .video-thumb a:hover {
-  border-color: transparent transparent transparent #fed300;
+  border-color: transparent transparent transparent #9900cc;
 }
 
 /* TRACK SHIPPING FORM */
@@ -1294,7 +1294,7 @@ button[type="submit"] i {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  background: #fed300;
+  background: #9900cc;
   position: relative;
   padding: 0 50px;
 }
@@ -1302,7 +1302,7 @@ button[type="submit"] i {
   content: "";
   width: 200px;
   height: 100%;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   right: -100px;
   top: 0;
@@ -1456,7 +1456,7 @@ button[type="submit"] i {
   width: 7px;
   height: 7px;
   float: left;
-  background: #fed300;
+  background: #9900cc;
   border-radius: 50%;
   margin-right: 10px;
   margin-top: 8px;
@@ -1570,7 +1570,7 @@ button[type="submit"] i {
   content: "";
   width: 15px;
   height: 15px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   left: 0;
   top: 0;
@@ -1674,7 +1674,7 @@ button[type="submit"] i {
   color: #fff;
   display: inline-block;
   line-height: 1;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   margin-bottom: -20px;
   opacity: 0;
 }
@@ -1694,7 +1694,7 @@ button[type="submit"] i {
   line-height: 70px;
   display: inline-block;
   text-align: center;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   border-radius: 50%;
   font-size: 20px;
@@ -1759,7 +1759,7 @@ button[type="submit"] i {
 }
 .side-services ul li a:hover {
   text-decoration: none;
-  color: #fed300;
+  color: #9900cc;
 }
 .side-services ul li a:hover i {
   opacity: 1;
@@ -1768,7 +1768,7 @@ button[type="submit"] i {
   width: 60px;
   height: 70px;
   line-height: 70px;
-  background: #fed300;
+  background: #9900cc;
   float: right;
   color: #212223;
   position: relative;
@@ -1784,7 +1784,7 @@ button[type="submit"] i {
   content: "";
   width: 40px;
   height: 70px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   left: -30px;
   top: 0;
@@ -1873,7 +1873,7 @@ button[type="submit"] i {
   content: "";
   width: 50px;
   height: 50px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   right: 0;
   bottom: -70px;
@@ -1883,7 +1883,7 @@ button[type="submit"] i {
   content: "";
   width: 50px;
   height: 50px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   left: 0;
   bottom: -70px;
@@ -2078,7 +2078,7 @@ button[type="submit"] i {
   height: 100px;
   line-height: 100px;
   display: inline-block;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   padding: 0 50px;
 }
@@ -2126,7 +2126,7 @@ button[type="submit"] i {
   width: 100%;
   display: block;
   margin-bottom: 30px;
-  color: #fed300;
+  color: #9900cc;
   font-size: 22px;
 }
 .image-quote .quote-box p {
@@ -2196,7 +2196,7 @@ button[type="submit"] i {
   flex-wrap: wrap;
   position: relative;
   overflow: hidden;
-  background-color: #fed300;
+  background-color: #9900cc;
   padding: 70px;
 }
 .testimonial:before {
@@ -2320,7 +2320,7 @@ button[type="submit"] i {
 }
 .history-box .date {
   display: inline-block;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   line-height: 1;
   position: absolute;
   right: 20px;
@@ -2330,7 +2330,7 @@ button[type="submit"] i {
   content: "";
   width: 7px;
   height: 7px;
-  background: #fed300;
+  background: #9900cc;
   position: absolute;
   right: -23px;
   top: 4px;
@@ -2349,7 +2349,7 @@ button[type="submit"] i {
   width: 260px;
   display: flex;
   flex-wrap: wrap;
-  background: #fed300;
+  background: #9900cc;
   margin: 0;
   padding: 15px 0;
   position: absolute;
@@ -2476,7 +2476,7 @@ button[type="submit"] i {
 .team-member small {
   display: inline-block;
   margin: 0 auto;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
   margin-bottom: 30px;
 }
 .team-member p {
@@ -2532,7 +2532,7 @@ button[type="submit"] i {
   position: relative;
   margin: 15px 0;
   overflow: hidden;
-  background: #fed300;
+  background: #9900cc;
 }
 .gallery-item * {
   -webkit-transition: all .35s ease-in-out;
@@ -2598,7 +2598,7 @@ button[type="submit"] i {
   line-height: 70px;
   display: inline-block;
   text-align: center;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   border-radius: 50%;
   font-size: 20px;
@@ -2625,7 +2625,7 @@ button[type="submit"] i {
   margin-bottom: 20px;
   color: #666;
   line-height: 1;
-  border-bottom: 3px solid #fed300;
+  border-bottom: 3px solid #9900cc;
 }
 .recent-news .content p {
   width: 100%;
@@ -2675,7 +2675,7 @@ button[type="submit"] i {
   margin-bottom: 30px;
   position: relative;
   overflow: hidden;
-  background: #fed300;
+  background: #9900cc;
 }
 .news-box figure img {
   width: 100%;
@@ -2710,7 +2710,7 @@ button[type="submit"] i {
   transition: all .30s ease-in-out;
 }
 .news-box .content h3 a:hover {
-  color: #fed300;
+  color: #9900cc;
   text-decoration: none;
 }
 .news-box .content .author {
@@ -2743,7 +2743,7 @@ button[type="submit"] i {
   width: 100%;
   display: block;
   padding: 40px;
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
   font-size: 19px;
 }
@@ -2780,7 +2780,7 @@ button[type="submit"] i {
   font-weight: 800;
   letter-spacing: 1px;
   font-size: 22px;
-  color: #fed300;
+  color: #9900cc;
   margin-bottom: 20px;
   padding-bottom: 20px;
 }
@@ -2840,7 +2840,7 @@ button[type="submit"] i {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background: #fed300;
+  background: #9900cc;
   padding: 70px;
 }
 .contact-bar h2 {
@@ -2907,7 +2907,7 @@ button[type="submit"] i {
   width: 100%;
 }
 .contact-form input[type="submit"] {
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
 }
 .contact-form textarea {
@@ -2975,13 +2975,13 @@ button[type="submit"] i {
   color: #fff;
 }
 .footer .footer-menu li a:hover {
-  color: #fed300;
+  color: #9900cc;
 }
 .footer p a {
   text-decoration: underline;
 }
 .footer p a:hover {
-  color: #fed300;
+  color: #9900cc;
 }
 .footer a {
   color: #fff;
@@ -2997,7 +2997,7 @@ button[type="submit"] i {
   border: none;
 }
 .footer form input[type="submit"] {
-  background: #fed300;
+  background: #9900cc;
   color: #212223;
 }
 .footer .footer-bottom {
@@ -3022,7 +3022,7 @@ button[type="submit"] i {
 }
 .footer .footer-bottom span:nth-child(2) a:hover {
   text-decoration: none;
-  color: #fed300;
+  color: #9900cc;
 }
 
 /* RESPONSIVE MEDIUM  */
@@ -3476,7 +3476,7 @@ button[type="submit"] i {
     padding: 10px 0;
     text-align: center;
     justify-content: center;
-    background: #fed300;
+    background: #9900cc;
     border: none;
   }
 
