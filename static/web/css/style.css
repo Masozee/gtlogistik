@@ -1192,7 +1192,7 @@ button[type="submit"] i {
   margin-bottom: 15px;
 }
 .section-title figure img {
-  height: 50px;
+  height: 100px;
 }
 .section-title h6 {
   width: 100%;
@@ -1205,6 +1205,10 @@ button[type="submit"] i {
   display: block;
   font-size: 50px;
   font-weight: 800;
+}
+
+.txt-white {
+  color: white !important;
 }
 .section-title p {
   width: 100%;
